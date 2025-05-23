@@ -19,9 +19,6 @@ This project is a mini clone of Airbnb, built using the MERN stack (MongoDB, Exp
 - **User Authentication:** Sign up, log in, and log out functionality for users.
 - **Review System:** Users can leave reviews for listings.
 
- ## Deployed on render
-Website Link: https://airbnnb-clone.onrender.com 
-
 ## Tech Stack
 - **Frontend:** HTML, CSS
 - **Backend:** Node.js, Express.js
